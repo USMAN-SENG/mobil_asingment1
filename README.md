@@ -18,8 +18,10 @@ So if 1 is entered in the textbox, than, display apple.
 
 ## how it work
 
-the app will tell you the equivalence month to the number you write in the text field. so 
+the app will tell you the equivalence month to the number you write in the text field. so
+
 1 means it's January 
+
 2  means it's February  ...etc
 
 the input have to be a number between 1 to 12 , any other value will result to an error 
