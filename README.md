@@ -1,4 +1,4 @@
-# second_app
+# mobile assigment1
 
 A new Flutter project.
 
