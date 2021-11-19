@@ -25,3 +25,6 @@ the app will tell you the equivalence month to the number you write in the text 
 2  means it's February  ...etc
 
 the input have to be a number between 1 to 12 , any other value will result to an error 
+
+## how it look
+![](screenshot/screenshot1.PNG)
