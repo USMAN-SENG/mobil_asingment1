@@ -28,5 +28,7 @@ the input have to be a number between 1 to 12 , any other value will result to a
 
 ## how it look
 ![](screenshot/screenshot1.PNG)
+
 ![](screenshot/screenshot2.PNG)
+
 ![](screenshot/screenshot3.PNG)
